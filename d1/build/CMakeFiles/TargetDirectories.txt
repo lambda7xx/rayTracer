@@ -1,0 +1,3 @@
+/home/lambda/rayTracer/build/CMakeFiles/rebuild_cache.dir
+/home/lambda/rayTracer/build/CMakeFiles/edit_cache.dir
+/home/lambda/rayTracer/build/CMakeFiles/ray.dir
